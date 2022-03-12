@@ -1,0 +1,5 @@
+map_name: big_world_1940
+games:
+- game_name: 'Big World: April 1940'
+  file_name: Big_World_Apr_1940.xml
+version: 0
